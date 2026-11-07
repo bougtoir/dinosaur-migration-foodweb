@@ -1,0 +1,86 @@
+value_id,value,CI_lower,CI_upper,unit,simulation_seed_set,source_script,source_output,figure_panel,manuscript_location
+sim01_bias_p2,-0.412470326335168,-0.4432561907262728,-0.3982120071130259,Δβ (mean-pairwise Jaccard),20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim01_bias_p4,-0.1704312532896553,-0.1868407852908075,-0.1574443492081995,Δβ (mean-pairwise Jaccard),20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim01_falsecontrast_p4,1.0,,,proportion,20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim01_bias_p26,-0.0001241949438118,-0.0079977531872572,0.0079800875830407,Δβ (mean-pairwise Jaccard),20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim02_bias_pD0.5_allolike,-0.0714230376930728,-0.0947292051679097,-0.053258497105733,Δβ (mean-pairwise Jaccard),20260922,02_dominance_bias.py,sim02_dominance_bias.csv,Fig.2b,Results 2
+sim02_bias_pD0.9,-0.2102022717924192,-0.2406979152839329,-0.1854862605973047,Δβ (mean-pairwise Jaccard),20260922,02_dominance_bias.py,sim02_dominance_bias.csv,Fig.2b,Results 2
+sim03_B_lumping_k6,0.0992264758514154,,,Δβ (mean-pairwise Jaccard),20260922,03_taxonomic_lumping.py,sim03_taxonomic_lumping.csv,Fig.4a,Results 2
+sim03_shift_genus_minus_species_k6,-0.0992264758514154,,,Δβ (mean-pairwise Jaccard),20260922,03_taxonomic_lumping.py,sim03_taxonomic_lumping.csv,Fig.4a,Results 2
+sim04_db_width1,-0.0308296008869769,-0.0355957578502204,-0.0265417583673482,Δβ (mean-pairwise Jaccard),20260922,04_temporal_averaging.py,sim04_temporal_averaging.csv,Fig.4b,Results 2
+sim04_db_width8,-0.0008375608830605,-0.0292793087334005,0.0302565239279499,Δβ (mean-pairwise Jaccard),20260922,04_temporal_averaging.py,sim04_temporal_averaging.csv,Fig.4b,Results 2
+sim05_bias_range_min,-0.0239288867455618,-0.0453197258748426,-0.009951475000113,Δβ (mean-pairwise Jaccard),20260922,05_sampling_bias.py,sim05_sampling_bias.csv,Table 2,Results 2
+sim05_bias_range_max,-0.0230348899870121,,,Δβ (mean-pairwise Jaccard),20260922,05_sampling_bias.py,sim05_sampling_bias.csv,Table 2,Results 2
+sim06_max_abs_bias,-0.9095269147336236,,,Δβ (mean-pairwise Jaccard),20260923,06_combined_factorial_simulation.py,sim06_factorial.csv,Fig.5,"Results 3 (cell n_pred=4, p_D=0.3, k=6)"
+sim06_false_difference_max,1.0,,,Δβ (mean-pairwise Jaccard),20260923,06_combined_factorial_simulation.py,sim06_factorial.csv,Fig.5,Results 3
+sim06_max_abs_bias_nondegenerate,-0.7591039853195235,,,Δβ (mean-pairwise Jaccard),20260923,06_combined_factorial_simulation.py,sim06_factorial.csv,Fig.5,"Results 3 (cell n_pred=4, p_D=0.9, k=3)"
+sim06_bias_p4_pd0.9_k3,-0.7591039853195235,,,Δβ (mean-pairwise Jaccard),20260923,06_combined_factorial_simulation.py,sim06_factorial.csv,Fig.5,Results 3
+sim06_additive_p4_pd0.9_k3,-0.2801126117408056,,,Δβ (mean-pairwise Jaccard),20260923,06_combined_factorial_simulation.py (sum of one-factor effects read from the grid),sim06_factorial.csv,Fig.5,Results 3
+emp_db_naive,-0.5497336252819323,-0.6304415629480886,-0.4566727159563943,Δβ (mean-pairwise Jaccard),20260924,07_morrison_empirical_decomposition.py,morrison_decomposition.csv,Fig.6,Results 4
+emp_gamma_null_interval,,-0.5344119563272056,-0.2285066996832808,,20260924,07_morrison_empirical_decomposition.py,morrison_decomposition.csv,Fig.6,Results 5
+emp_freq_null_interval,,-0.1240248254946474,-0.0948321026904784,,20260924,07_morrison_empirical_decomposition.py,morrison_decomposition.csv,Fig.6,Results 5
+emp_db_minus_allosaurus,-0.0198198488963347,-0.1275783414204362,0.0237991470828514,Δβ (mean-pairwise Jaccard),20260924,07_morrison_empirical_decomposition.py,morrison_decomposition.csv,Fig.6,Results 5
+emp_db_species,-0.3218902255530581,-0.4262783019678936,-0.2341500834528298,Δβ (mean-pairwise Jaccard),20260924,07_morrison_empirical_decomposition.py,morrison_decomposition.csv,Fig.6,Results 5
+emp_allo_extent_z,-0.1560232454359002,,,z-score,,01_allosaurus_mechanisms.py,morrison_decomposition.csv,Fig.6,Results 5
+emp_presence_pseudoR2,0.455646053471728,,,pseudo-R2,,01_allosaurus_mechanisms.py,morrison_decomposition.csv,,Results 5 (exploratory)
+emp_presence_pseudoR2_penalized,0.3413540987762622,,,pseudo-R2,,12_presence_model_robustness.py,presence_model_robustness.csv,,Results 5 (exploratory robustness)
+sim13_2d_bias_p4,-0.2145087008758337,-0.25623595561157,-0.2017860111904785,Δβ (mean-pairwise Jaccard),20260924,13_2d_robustness.py,sim13_2d_gamma.csv,Fig.3a,Results 1 (2-D robustness)
+sim13_2d_bias_p2,-0.471144746275779,-0.5410583155536763,-0.4475354501725994,Δβ (mean-pairwise Jaccard),20260924,13_2d_robustness.py,sim13_2d_gamma.csv,Fig.3a,Results 1 (2-D robustness)
+sim13_2d_decayslope_diff_p4,0.0212219937030484,,,Δβ (mean-pairwise Jaccard),20260924,13_2d_robustness.py,sim13_2d_gamma.csv,Fig.3b,Results 1
+sim13_2d_temporal_attenuation,0.027343572936709203,,,Δβ (mean-pairwise Jaccard),20260924,13_2d_robustness.py,sim13_2d_temporal.csv,Fig.4b,Results 2
+nem_db_full,0.0938382225328039,-0.079,0.3,Δβ (mean-pairwise Jaccard),20260920,11_nemegt_validation.py (CI); 08_optional_external_validation.py,nemegt_comparator_decomposition.csv; nemegt_delta_beta.csv,Fig.6 inset,Results 6
+sim21_weak_thin,-0.0504,-0.0543,-0.0465,Δβ (mean-pairwise Jaccard),20260925,analysis/21_temporal_false_negative.py,results/tables/sim21_temporal_attenuation.csv,Fig. 4b,Results 2 (temporal); Discussion
+sim21_weak_pooled,-0.1890,-0.2300,-0.1476,Δβ (mean-pairwise Jaccard),20260925,analysis/21_temporal_false_negative.py,results/tables/sim21_temporal_attenuation.csv,Fig. 4b,Results 2 (temporal); Discussion
+sim21_moderate_thin,-0.0967,-0.1006,-0.0923,Δβ (mean-pairwise Jaccard),20260925,analysis/21_temporal_false_negative.py,results/tables/sim21_temporal_attenuation.csv,Fig. 4b,Results 2 (temporal); Discussion
+sim21_moderate_pooled,-0.3933,-0.4238,-0.3704,Δβ (mean-pairwise Jaccard),20260925,analysis/21_temporal_false_negative.py,results/tables/sim21_temporal_attenuation.csv,Fig. 4b,Results 2 (temporal); Discussion
+sim21_strong_thin,-0.1721,-0.1769,-0.1676,Δβ (mean-pairwise Jaccard),20260925,analysis/21_temporal_false_negative.py,results/tables/sim21_temporal_attenuation.csv,Fig. 4b,Results 2 (temporal); Discussion
+sim21_strong_pooled,-0.7010,-0.7156,-0.6836,Δβ (mean-pairwise Jaccard),20260925,analysis/21_temporal_false_negative.py,results/tables/sim21_temporal_attenuation.csv,Fig. 4b,Results 2 (temporal); Discussion
+fc_thr_pool2_all,1.0,,,proportion,20260922,analysis/22_false_contrast_threshold.py,results/tables/false_contrast_threshold_sensitivity.csv,Table 1,Results 1
+fc_thr_pool4_0.20,0.0,,,proportion,20260922,analysis/22_false_contrast_threshold.py,results/tables/false_contrast_threshold_sensitivity.csv,Table 1,Results 1
+fc_rate_pool2_thr0.05,1.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool2_thr0.10,1.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool2_thr0.20,1.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool4_thr0.05,1.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool4_thr0.10,1.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool4_thr0.20,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool12_thr0.05,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool12_thr0.10,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool12_thr0.20,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool26_thr0.05,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool26_thr0.10,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+fc_rate_pool26_thr0.20,0.0,,,proportion,20260922,22_false_contrast_threshold.py,false_contrast_threshold_sensitivity.csv,Table 1,Results 1; Table 1
+sim01_propneg_p12,1.0,,,proportion,20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim01_propneg_p16,0.995,,,proportion,20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim01_propneg_p20,0.835,,,proportion,20260922,01_gamma_diversity_bias.py,sim01_gamma_bias.csv,Fig.2a,Results 1
+sim03_db_species_k6,-0.0014936179436819,,,Δβ (mean-pairwise Jaccard),20260922,03_taxonomic_lumping.py,sim03_taxonomic_lumping.csv,Fig.4a,Results 2
+sim03_db_genus_k6,-0.1007200937950974,,,Δβ (mean-pairwise Jaccard),20260922,03_taxonomic_lumping.py,sim03_taxonomic_lumping.csv,Fig.4a,Results 2
+sim05_db_mult1,-0.0239288867455618,-0.0400533503405977,-0.009951475000113,Δβ (mean-pairwise Jaccard),20260922,05_sampling_bias.py,sim05_sampling_bias.csv,Table 2,Results 2; Table 2
+sim05_db_mult2,-0.0230348899870121,-0.0377287071776187,-0.0075706282218176,Δβ (mean-pairwise Jaccard),20260922,05_sampling_bias.py,sim05_sampling_bias.csv,Table 2,Results 2; Table 2
+sim05_db_mult4,-0.023599736891343,-0.0453197258748426,-0.0074333524952458,Δβ (mean-pairwise Jaccard),20260922,05_sampling_bias.py,sim05_sampling_bias.csv,Table 2,Results 2; Table 2
+sim05_db_mult8,-0.0236764552234966,-0.0407851785389539,-0.0083352008645643,Δβ (mean-pairwise Jaccard),20260922,05_sampling_bias.py,sim05_sampling_bias.csv,Table 2,Results 2; Table 2
+sim13_2d_decayslope_small_p4,0.027585556087601,,,Jaccard per lattice unit,20260924,13_2d_robustness.py,sim13_2d_gamma.csv,Fig.3b,Abstract; Results 1; Discussion
+sim13_2d_decayslope_comparison_p4,0.0063635623845525,,,Jaccard per lattice unit,20260924,13_2d_robustness.py,sim13_2d_gamma.csv,Fig.3b,Abstract; Results 1; Discussion
+sim13_2d_temporal_thin,-0.0457064230287535,,,Δβ (mean-pairwise Jaccard),20260924,13_2d_robustness.py,sim13_2d_temporal.csv,Fig.4b,Discussion
+sim13_2d_temporal_pooled,-0.0183628500920443,,,Δβ (mean-pairwise Jaccard),20260924,13_2d_robustness.py,sim13_2d_temporal.csv,Fig.4b,Discussion
+sim21_weak_attenuation_fraction,-2.754029714634188,,,fraction,20260925,21_temporal_false_negative.py,sim21_temporal_attenuation.csv,Fig.4b,Results 2
+sim21_weak_fold,3.754029714634188,,,ratio,20260925,21_temporal_false_negative.py,sim21_temporal_attenuation.csv,Fig.4b,Abstract; Results 2; Discussion
+sim21_moderate_attenuation_fraction,-3.067189547230293,,,fraction,20260925,21_temporal_false_negative.py,sim21_temporal_attenuation.csv,Fig.4b,Results 2
+sim21_moderate_fold,4.067189547230293,,,ratio,20260925,21_temporal_false_negative.py,sim21_temporal_attenuation.csv,Fig.4b,Abstract; Results 2; Discussion
+sim21_strong_attenuation_fraction,-3.073094278528222,,,fraction,20260925,21_temporal_false_negative.py,sim21_temporal_attenuation.csv,Fig.4b,Results 2
+sim21_strong_fold,4.073094278528222,,,ratio,20260925,21_temporal_false_negative.py,sim21_temporal_attenuation.csv,Fig.4b,Abstract; Results 2; Discussion
+emp_allo_extent_resid_km,-36.6002416564188,,,km,,01_allosaurus_mechanisms.py,allo_duration_model_taxa.csv,Fig.6,Results 5
+emp_allo_occupancy,0.4560669456066946,,,proportion of collections,,01_allosaurus_mechanisms.py,allo_duration_model_taxa.csv,Fig.2b,Results 2
+emp_presence_state_coef_min,14.106184451350678,,,logit coefficient,,01_allosaurus_mechanisms.py,allo_presence_logit.csv,,Results 5 (exploratory)
+emp_presence_state_coef_max,17.765679299141876,,,logit coefficient,,01_allosaurus_mechanisms.py,allo_presence_logit.csv,,Results 5 (exploratory)
+emp_n_occurrences,651,,,count,,analysis/02_occurrence_cleaning.py,data/processed/occurrences_clean.csv,,Methods
+emp_n_collections,239,,,count,,analysis/02_occurrence_cleaning.py,data/processed/occurrences_clean.csv,,Methods
+emp_n_genera,38,,,count,,analysis/02_occurrence_cleaning.py,data/processed/occurrences_clean.csv,,Methods
+emp_n_genera_herbivore,26,,,count,,analysis/02_occurrence_cleaning.py,data/processed/occurrences_clean.csv,,Methods
+emp_n_genera_predator,12,,,count,,analysis/02_occurrence_cleaning.py,data/processed/occurrences_clean.csv,,Methods
+nem_n_occurrences,319,,,count,,analysis/10_nemegt_prep.py,data/processed/nemegt_occurrences.csv,,Methods
+nem_n_collections,124,,,count,,analysis/10_nemegt_prep.py,data/processed/nemegt_occurrences.csv,,Methods
+nem_sub_n_collections,89,,,count,,analysis/11_nemegt_validation.py,data/processed/nemegt_occurrences.csv,,Methods
+nem_sub_n_occ_predator,116,,,count,,analysis/11_nemegt_validation.py,data/processed/nemegt_occurrences.csv,,Methods
+nem_sub_n_genera_predator,26,,,count,,analysis/11_nemegt_validation.py,data/processed/nemegt_occurrences.csv,,Methods
+nem_sub_n_occ_herbivore,34,,,count,,analysis/11_nemegt_validation.py,data/processed/nemegt_occurrences.csv,,Methods
+nem_sub_n_genera_herbivore,8,,,count,,analysis/11_nemegt_validation.py,data/processed/nemegt_occurrences.csv,,Methods

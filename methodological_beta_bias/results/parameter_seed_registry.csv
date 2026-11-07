@@ -1,0 +1,99 @@
+script,name,value,kind,line
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,RNG_SEED,20260922,module constant,22
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,N_LOC,200,module constant,23
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,N_H,26,module constant,24
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,BREADTH,0.45,module constant,25
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,OCC_P,0.35,module constant,26
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,REPS,200,module constant,27
+methodological_beta_bias/analysis/01_gamma_diversity_bias.py,n_p,"(2, 4, 6, 8, 12, 16, 20, 26)",loop grid,33
+methodological_beta_bias/analysis/02_dominance_bias.py,RNG_SEED,20260922,module constant,22
+methodological_beta_bias/analysis/02_dominance_bias.py,N_LOC,200,module constant,23
+methodological_beta_bias/analysis/02_dominance_bias.py,BREADTH,0.45,module constant,25
+methodological_beta_bias/analysis/02_dominance_bias.py,OCC_P,0.35,module constant,26
+methodological_beta_bias/analysis/02_dominance_bias.py,REPS,200,module constant,27
+methodological_beta_bias/analysis/03_taxonomic_lumping.py,RNG_SEED,20260922,module constant,23
+methodological_beta_bias/analysis/03_taxonomic_lumping.py,N_LOC,200,module constant,24
+methodological_beta_bias/analysis/03_taxonomic_lumping.py,BREADTH,0.45,module constant,26
+methodological_beta_bias/analysis/03_taxonomic_lumping.py,OCC_P,0.35,module constant,27
+methodological_beta_bias/analysis/03_taxonomic_lumping.py,REPS,200,module constant,28
+methodological_beta_bias/analysis/03_taxonomic_lumping.py,k,"(1, 2, 3, 4, 6)",loop grid,47
+methodological_beta_bias/analysis/04_temporal_averaging.py,RNG_SEED,20260922,module constant,22
+methodological_beta_bias/analysis/04_temporal_averaging.py,N_LOC,200,module constant,23
+methodological_beta_bias/analysis/04_temporal_averaging.py,BREADTH,0.3,module constant,25
+methodological_beta_bias/analysis/04_temporal_averaging.py,OCC_P,0.4,module constant,26
+methodological_beta_bias/analysis/04_temporal_averaging.py,T_SLICES,8,module constant,27
+methodological_beta_bias/analysis/04_temporal_averaging.py,REPS,100,module constant,28
+methodological_beta_bias/analysis/04_temporal_averaging.py,n_bins,"(8, 4, 2, 1)",loop grid,41
+methodological_beta_bias/analysis/05_sampling_bias.py,RNG_SEED,20260922,module constant,24
+methodological_beta_bias/analysis/05_sampling_bias.py,N_LOC,200,module constant,25
+methodological_beta_bias/analysis/05_sampling_bias.py,BREADTH,0.45,module constant,27
+methodological_beta_bias/analysis/05_sampling_bias.py,OCC_P,0.35,module constant,28
+methodological_beta_bias/analysis/05_sampling_bias.py,REPS,200,module constant,29
+methodological_beta_bias/analysis/05_sampling_bias.py,boost,"(1.0, 2.0, 4.0, 8.0)",loop grid,36
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,RNG_SEED,20260923,module constant,22
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,N_LOC,200,module constant,23
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,N_H,26,module constant,24
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,BREADTH,0.45,module constant,25
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,OCC_P,0.35,module constant,26
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,REPS,100,module constant,27
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,n_p,"(4, 12, 26)",loop grid,33
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,p_d,"(0.0, 0.3, 0.5, 0.7, 0.9)",loop grid,34
+methodological_beta_bias/analysis/06_combined_factorial_simulation.py,k,"(1, 3, 6)",loop grid,35
+methodological_beta_bias/analysis/07_morrison_empirical_decomposition.py,RNG_SEED,20260924,module constant,28
+methodological_beta_bias/analysis/07_morrison_empirical_decomposition.py,N_BOOT,999,module constant,29
+methodological_beta_bias/analysis/07_morrison_empirical_decomposition.py,B_NULL,10000,module constant,30
+methodological_beta_bias/analysis/08_optional_external_validation.py,RNG_SEED,20260925,module constant,25
+methodological_beta_bias/analysis/08_optional_external_validation.py,N_BOOT,999,module constant,26
+methodological_beta_bias/analysis/08_optional_external_validation.py,B_NULL,10000,module constant,27
+methodological_beta_bias/analysis/08_optional_external_validation.py,DOMINANT,'Tarbosaurus',module constant,28
+methodological_beta_bias/analysis/12_presence_model_robustness.py,c,"(10.0, 1.0, 0.1)",loop grid,62
+methodological_beta_bias/analysis/13_2d_robustness.py,RNG_SEED,20260924,module constant,22
+methodological_beta_bias/analysis/13_2d_robustness.py,L,40,module constant,23
+methodological_beta_bias/analysis/13_2d_robustness.py,N_H,26,module constant,24
+methodological_beta_bias/analysis/13_2d_robustness.py,OCC_P,0.35,module constant,25
+methodological_beta_bias/analysis/13_2d_robustness.py,R_FRAC,0.225,module constant,26
+methodological_beta_bias/analysis/13_2d_robustness.py,REPS,100,module constant,27
+methodological_beta_bias/analysis/13_2d_robustness.py,n_p,"(2, 4, 12, 26)",loop grid,94
+methodological_beta_bias/analysis/13_2d_robustness.py,n_bins,"(8, 4, 1)",loop grid,132
+methodological_beta_bias/analysis/21_temporal_false_negative.py,RNG_SEED,20260925,module constant,39
+methodological_beta_bias/analysis/21_temporal_false_negative.py,N_LOC,200,module constant,40
+methodological_beta_bias/analysis/21_temporal_false_negative.py,OCC_P,0.4,module constant,42
+methodological_beta_bias/analysis/21_temporal_false_negative.py,T_SLICES,8,module constant,43
+methodological_beta_bias/analysis/21_temporal_false_negative.py,REPS,150,module constant,44
+methodological_beta_bias/analysis/21_temporal_false_negative.py,SCENARIOS,"{'weak': (0.3, 0.45), 'moderate': (0.3, 0.7), 'strong': (0.15, 0.9)}",module constant,46
+methodological_beta_bias/analysis/21_temporal_false_negative.py,n_bins,"(8, 4, 2, 1)",loop grid,62
+methodological_beta_bias/analysis/21_temporal_false_negative.py,n_bins,"(8, 4, 2, 1)",loop grid,88
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,RNG_SEED,20260922,module constant,24
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,N_LOC,200,module constant,25
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,BREADTH,0.45,module constant,26
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,OCC_P,0.35,module constant,27
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,N_H,26,module constant,28
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,REPS,200,module constant,29
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,THRESHOLDS,"(0.05, 0.1, 0.2)",module constant,30
+methodological_beta_bias/analysis/22_false_contrast_threshold.py,n_p,"(2, 4, 12, 26)",loop grid,36
+analysis/05_beta_diversity.py,RNG_SEED,20240920,module constant,37
+analysis/05_beta_diversity.py,N_BOOT,999,module constant,38
+analysis/05_beta_diversity.py,N_PERM,9999,module constant,39
+analysis/05_beta_diversity.py,"(guild, color)","(('herbivore', 'tab:green'), ('predator', 'tab:red'))",loop grid,101
+analysis/05_beta_diversity.py,"(metric_name, ls)","(('simpson', '-'), ('sorensen', '--'))",loop grid,110
+analysis/05_beta_diversity.py,guild,"('herbivore', 'predator')",loop grid,50
+analysis/07_exploratory_reverse_signal.py,RNG_SEED,20240922,module constant,35
+analysis/07_exploratory_reverse_signal.py,B_POOL,10000,module constant,36
+analysis/07_exploratory_reverse_signal.py,B_FREQ,10000,module constant,37
+analysis/07_exploratory_reverse_signal.py,N_DOWNSAMPLE,1000,module constant,38
+analysis/07_exploratory_reverse_signal.py,N_STRAT_BOOT,499,module constant,39
+analysis/07_exploratory_reverse_signal.py,g,"('herbivore', 'predator')",loop grid,119
+analysis/07_exploratory_reverse_signal.py,cell_km,"(None, 50, 100, 150)",loop grid,371
+analysis/07_exploratory_reverse_signal.py,guild,"('herbivore', 'predator')",loop grid,267
+analysis/07_exploratory_reverse_signal.py,guild,"('herbivore', 'predator')",loop grid,322
+analysis/07_exploratory_reverse_signal.py,guild,"('herbivore', 'predator')",loop grid,350
+analysis/07_exploratory_reverse_signal.py,guild,"('herbivore', 'predator')",loop grid,386
+analysis/11_nemegt_validation.py,RNG_SEED,20260920,module constant,25
+analysis/11_nemegt_validation.py,N_BOOT,999,module constant,26
+analysis/11_nemegt_validation.py,N_DOWNSAMPLE,999,module constant,27
+analysis/11_nemegt_validation.py,B_POOL,10000,module constant,28
+analysis/11_nemegt_validation.py,DOMINANT,'Tarbosaurus',module constant,29
+analysis/11_nemegt_validation.py,METRIC,'jaccard',module constant,30
+analysis/11_nemegt_validation.py,guild,"('herbivore', 'predator')",loop grid,43
+analysis/11_nemegt_validation.py,metric,"('simpson', 'sorensen')",loop grid,96
+analysis/11_nemegt_validation.py,field,"('env', 'lt1', 'gsc', 'cct')",loop grid,164

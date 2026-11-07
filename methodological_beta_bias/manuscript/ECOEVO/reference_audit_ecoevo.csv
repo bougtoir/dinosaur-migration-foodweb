@@ -1,0 +1,56 @@
+authors_override,book_editors,book_title,container_registry,doi,first_author_registry,key,publisher,series,source,status,title_override,title_registry,type,year_override,year_registry
+,,,Ecological Monographs,10.2307/1943563,Whittaker,whittaker1960,,,api.crossref.org,OK,,"Vegetation of the Siskiyou Mountains, Oregon and California",journal-article,,1960
+,,,Ecography,10.1111/j.1600-0587.2009.06148.x,Tuomisto,tuomisto2010,,,api.crossref.org,OK,,A diversity of beta diversities: straightening up a concept gone awry. Part 2. Quantifying beta diversity and related phenomena,journal-article,,2010
+,,,Oecologia,10.1007/s00442-010-1591-7,Moreno,moreno2010,,,api.crossref.org,OK,,A consistent terminology for quantifying species diversity?,journal-article,,2010
+,,,Global Ecology and Biogeography,10.1111/j.1466-8238.2009.00490.x,Baselga,baselga2010,,,api.crossref.org,OK,,Partitioning the turnover and nestedness components of beta diversity,journal-article,,2010
+,,,Global Ecology and Biogeography,10.1111/j.1466-8238.2011.00756.x,Baselga,baselga2012,,,api.crossref.org,OK,,"The relationship between species replacement, dissimilarity derived from nestedness, and nestedness",journal-article,,2012
+,,,Ecology Letters,10.1111/j.1461-0248.2010.01552.x,Anderson,anderson2011,,,api.crossref.org,OK,,Navigating the multiple meanings of β diversity: a roadmap for the practicing ecologist,journal-article,,2011
+,,,Global Ecology and Biogeography,10.1111/geb.12207,Legendre,legendre2014,,,api.crossref.org,OK,,Interpreting the replacement and richness difference components of beta diversity,journal-article,,2014
+,,,Science,10.1126/science.1208584,Kraft,kraft2011,,,api.crossref.org,OK,,Disentangling the Drivers of β Diversity Along Latitudinal and Elevational Gradients,journal-article,,2011
+,,,Ecosphere,10.1890/es10-00117.1,Chase,chase2011,,,api.crossref.org,OK,,Using null models to disentangle variation in community dissimilarity from variation in α-diversity,journal-article,,2011
+,,,Ecology Letters,10.1111/ele.13151,Chase,chase2018,,,api.crossref.org,OK,,Embracing scale-dependence to achieve a deeper understanding of biodiversity and its change across communities,journal-article,,2018
+,,,Journal of Biogeography,10.1046/j.1365-2699.1999.00305.x,Nekola,nekolawhite1999,,,api.crossref.org,OK,,The distance decay of similarity in biogeography and ecology,journal-article,,1999
+,,,Ecography,10.1111/j.0906-7590.2007.04817.x,Soininen,soininen2007,,,api.crossref.org,OK,,The distance decay of similarity in ecological communities,journal-article,,2007
+,,,Ecology Letters,10.1111/j.1461-0248.2008.01202.x,Morlon,morlon2008,,,api.crossref.org,OK,,A general framework for the distance–decay of similarity in ecological communities,journal-article,,2008
+,,,Global Ecology and Biogeography,10.1111/geb.12031,Barton,barton2013,,,api.crossref.org,OK,,The spatial scaling of beta diversity,journal-article,,2013
+,,,Functional Ecology,10.2307/2389612,Wiens,wiens1989,,,api.crossref.org,OK,,Spatial Scaling in Ecology,journal-article,,1989
+,,,Ecosphere,10.1002/ecs2.2881,Avolio,avolio2019,,,api.crossref.org,OK,,A comprehensive approach to analyzing community dynamics using rank abundance curves,journal-article,,2019
+,,,Ecology Letters,10.1046/j.1461-0248.2004.00548.x,Lennon,lennon2004,,,api.crossref.org,OK,,Contribution of rarity and commonness to patterns of species richness,journal-article,,2004
+,,,Biological Reviews,10.1017/s1464793101005887,McGeoch,mcgeoch2002,,,api.crossref.org,OK,,"Occupancy frequency distributions: patterns, artefacts and mechanisms",journal-article,,2002
+,,,Systematics and Biodiversity,10.1017/s1477200005001908,Bertrand,bertrand2006,,,api.crossref.org,OK,,"Taxonomic surrogacy in biodiversity assessments, and the meaning of Linnaean ranks",journal-article,,2006
+,,,Marine Pollution Bulletin,10.1016/j.marpolbul.2009.07.018,Bevilacqua,bevilacqua2009,,,api.crossref.org,OK,,Taxonomic sufficiency in the detection of natural and human-induced changes in marine assemblages: A comparison of habitats and taxonomic groups,journal-article,,2009
+,,,Paleobiology,10.1017/s009483730002652x,Olszewski,olszewski1999,,,api.crossref.org,OK,,Taking advantage of time-averaging,journal-article,,1999
+,"Allison, P. A., & Briggs, D. E. G.",Taphonomy,Topics in Geobiology; Taphonomy,10.1007/978-1-4899-5034-5_4,Kidwell,kidwell1991,Springer,Topics in Geobiology,api.crossref.org,OK,,Taphonomy and Time-Averaging of Marine Shelly Faunas,book-chapter,,1991
+,,,Paleobiology,10.1666/08092.1,Tomašových,tomasovych2010,,,api.crossref.org,OK,,"Predicting the effects of increasing temporal scale on species composition, diversity, and rank-abundance distributions",journal-article,,2010
+,,,Science,10.1126/science.aaw1620,Blowes,blowes2019,,,api.crossref.org,OK,,The geography of biodiversity change in marine and terrestrial assemblages,journal-article,,2019
+,,,Ecology,10.1890/09-0392.1,Korhonen,korhonen2010,,,api.crossref.org,OK,,A quantitative analysis of temporal turnover in aquatic species assemblages across ecosystems,journal-article,,2010
+,,,Ecology Letters,10.1046/j.1461-0248.2001.00230.x,Gotelli,gotelli2001,,,api.crossref.org,OK,,Quantifying biodiversity: procedures and pitfalls in the measurement and comparison of species richness,journal-article,,2001
+,,,Ecological Monographs,10.1890/13-0133.1,Chao,chao2014,,,api.crossref.org,OK,,Rarefaction and extrapolation with Hill numbers: a framework for sampling and estimation in species diversity studies,journal-article,,2014
+,,,Ecology,10.1890/0012-9658(2002)083[2248:esorwd]2.0.co;2,MacKenzie,mackenzie2002,,,api.crossref.org,OK,,Estimating site occupancy rates when detection probabilities are less than one,journal-article,,2002
+,,,Journal of Plant Ecology,10.1093/jpe/rtr044,Colwell,colwell2012,,,api.crossref.org,OK,,"Models and estimators linking individual-based and sample-based rarefaction, extrapolation and comparison of assemblages",journal-article,,2012
+,,,Trends in Ecology & Evolution,10.1016/s0169-5347(97)01177-4,Shaffer,shaffer1998,,,api.crossref.org,OK,,The role of natural history collections in documenting species declines,journal-article,,1998
+,,,Biological Reviews,10.1111/j.1469-185x.2009.00098.x,Pyke,pyke2010,,,api.crossref.org,OK,,"Biological collections and ecological/environmental research: a review, some observations and a look to the future",journal-article,,2010
+,,,"Perspectives in Plant Ecology, Evolution and Systematics",10.1016/j.ppees.2012.10.002,Lavoie,lavoie2013,,,api.crossref.org,OK,,Biological collections in an ever changing world: Herbaria as tools for biogeographical and environmental studies,journal-article,,2013
+,,,Trends in Ecology & Evolution,10.1016/j.tree.2004.07.006,Graham,graham2004,,,api.crossref.org,OK,,New developments in museum-based informatics and applications in biodiversity analysis,journal-article,,2004
+,,,Dryad,10.5061/dryad.6m905qg77,Maidment,maidment2024,,,api.datacite.org,OK,,"Data and code for: Diversity through space and time in the Upper Jurassic Morrison Formation, western USA",dataset,,2024
+,,,Proceedings of the National Academy of Sciences,10.1073/pnas.0802597105,Alroy,alroy2008,,,api.crossref.org,OK,,Dynamics of origination and extinction in the marine fossil record,journal-article,,2008
+,,,Paleobiology,10.1666/0094-8373(2000)26[103:tap]2.0.co;2,Behrensmeyer,behrensmeyer2000,,,api.crossref.org,OK,,Taphonomy and paleobiology,journal-article,,2000
+,,,PLoS ONE,10.1371/journal.pone.0074470,Vilhena,vilhena2013,,,api.crossref.org,OK,,Spatial Bias in the Marine Fossil Record,journal-article,,2013
+,,,PLoS ONE,10.1371/journal.pone.0012553,Noto,noto2010,,,api.crossref.org,OK,,Broad-Scale Patterns of Late Jurassic Dinosaur Paleoecology,journal-article,,2010
+,,,Ichnos,10.1080/10420940.2015.1059335,Foster,foster2015,,,api.crossref.org,OK,,"Theropod Dinosaur IchnogenusHispanosauropusIdentified from the Morrison Formation (Upper Jurassic), Western North America",journal-article,,2015
+,,,PLOS ONE,10.1371/journal.pone.0233115,Drumheller,drumheller2020,,,api.crossref.org,OK,,"High frequencies of theropod bite marks provide evidence for feeding, scavenging, and possible cannibalism in a stressed Late Jurassic ecosystem",journal-article,,2020
+"Martin, R. E.",,Taphonomy,Taphonomy,10.1017/cbo9780511612381.006,Martin,martin1999,Cambridge University Press,,api.crossref.org,OK,,Time-averaging of fossil assemblages: taphonomy and temporal resolution,book-chapter,,1999
+,,,Ecology and Evolution,10.1002/ece3.1460,Heino,heino2015,,,api.crossref.org,OK,,A comparative analysis of metacommunity types in the freshwater realm,journal-article,,2015
+,,,Ecology Letters,10.1111/j.1461-0248.2007.01094.x,McGill,mcgill2007,,,api.crossref.org,OK,,Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework,journal-article,,2007
+,,,Trends in Ecology & Evolution,10.1016/j.tree.2015.11.005,Socolar,socolar2016,,,api.crossref.org,OK,,How Should Beta-Diversity Inform Biodiversity Conservation?,journal-article,,2016
+,,,Ecology,10.1890/07-1053.1,Hillebrand,hillebrand2008,,,api.crossref.org,OK,,Consequences of dominance: a review of evenness effects on local and regional ecosystem processes,journal-article,,2008
+,,,Trends in Ecology & Evolution,10.1016/j.tree.2010.12.004,Pärtel,partel2011,,,api.crossref.org,OK,,Dark diversity: shedding light on absent species,journal-article,,2011
+,,,Journal of Vegetation Science,10.1111/jvs.12333,Zobel,zobel2016,,,api.crossref.org,OK,,The species pool concept as a framework for studying patterns of plant diversity,journal-article,,2016
+,,,Journal of Vertebrate Paleontology,10.1080/02724634.2012.716114,Uhen,uhen2013,,,api.crossref.org,OK,,From card catalogs to computers: databases in vertebrate paleontology,journal-article,,2013
+,,,Paleobiology,10.1017/pab.2015.39,Peters,peters2016,,,api.crossref.org,OK,,The Paleobiology Database application programming interface,journal-article,,2016
+,,,Ecography,10.1111/j.1600-0587.2010.06282.x,Badgley,badgley2010,,,api.crossref.org,OK,,"Tectonics, topography, and mammalian diversity",journal-article,,2010
+,,,The American Naturalist,10.1086/377188,Lane,lane2003,,,api.crossref.org,OK,,Taxonomic Level as a Determinant of the Shape of the Phanerozoic Marine Biodiversity Curve,journal-article,,2003
+,,,Palaeontology,10.1111/j.1475-4983.2007.00693.x,Smith,smith2007,,,api.crossref.org,OK,The shape of the Phanerozoic marine palaeodiversity curve: how much can be predicted from the sedimentary rock record of Western Europe?,The shape of the Phanerozoic marine palaeodiversity curve: how much can be predicted from the sedimentary rock record of Western Europe?,journal-article,,2007
+,,,Journal of Biogeography,10.1111/j.1365-2699.2012.02701.x,Keil,keil2012,,,api.crossref.org,OK,,"Patterns of beta diversity in Europe: the role of climate, land cover and distance across scales",journal-article,,2012
+,,,Journal of Biogeography,10.1111/j.1365-2699.2011.02639.x,Sfenthourakis,sfenthourakis2012,,,api.crossref.org,OK,,From plots to islands: species diversity at different scales,journal-article,,2012
+,,,Journal of Biogeography,10.1111/j.1365-2699.2006.01585.x,Stigall,stigall2006,,,api.crossref.org,OK,,"Quantitative palaeobiogeography: GIS, phylogenetic biogeographical analysis, and conservation insights",journal-article,,2006
